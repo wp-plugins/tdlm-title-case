@@ -39,7 +39,8 @@ None yet.
 
 == Screenshots ==
 
-None yet.
+1. Note the new drop-down labeled "-- Change Case --" next to the View Post button.
+2. Here, I have selected "Title Case," which changed the title case respectively.
 
 == Changelog ==
 
