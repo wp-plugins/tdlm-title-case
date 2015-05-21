@@ -180,7 +180,7 @@ function tdlm_title_case_lowercase_get() {
  * @return string
  */
 function tdlm_title_case_lowercase_default() {
-	return 'A, An, The, And, But, Or, For, Nor, As, At, By, For, From, In, Into, Near, Of, On, Onto, To, With';
+	return 'a, abaft, about, above, afore, after, along, amid, among, an, apud, as, aside, at, atop, below, but, by, circa, down, for, from, given, in, into, lest, like, mid, midst, minus, near, next, of, off, on, onto, out, over, pace, past, per, plus, pro, qua, round, sans, save, since, than, thru, till, times, to, under, until, unto, up, upon, via, vice, with, worth, the, and, nor, or, yet, so';
 }
 
 /**
@@ -223,7 +223,7 @@ function tdlm_title_case_uppercase_get() {
  * @return string
  */
 function tdlm_title_case_uppercase_default() {
-	return 'Id, Tv';
+	return 'id, tdlm, tv';
 }
 
 /**
