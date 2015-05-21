@@ -5,6 +5,7 @@ License URI: http://www.gnu.org/licenses/gpl.html
 Tags: title, titlecase, title case
 Requires at least: 3.9
 Tested up to: 1.0.0
+Stable tag: trunk
 
 Change your post title to correct title case or all lowercase or all uppercase.
 
@@ -27,6 +28,18 @@ title, titlecase, title case
 1. Upload the `tdlm-title-case` folder to the `/wp-content/plugins/` directory
 1. Activate the TDLM Title Case plugin through the 'Plugins' menu in WordPress
 1. Configure the plugin by going to the `TDLM Title Case` menu that appears in your admin menu under Settings
+
+== Frequently Asked Questions ==
+
+None yet.
+
+== Upgrade Notice ==
+
+None yet.
+
+== Screenshots ==
+
+None yet.
 
 == Changelog ==
 
