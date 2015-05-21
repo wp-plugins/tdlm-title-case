@@ -4,8 +4,8 @@ License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 Tags: title, titlecase, title case
 Requires at least: 3.9
-Tested up to: 1.0.0
-Stable tag: trunk
+Tested up to: 1.0.1
+Stable tag: 1.0.1
 
 Change your post title to correct title case or all lowercase or all uppercase.
 
@@ -42,6 +42,10 @@ None yet.
 None yet.
 
 == Changelog ==
+
+= 1.0.1 =
+
+Fixed missing argument warning.
 
 = 1.0.0 =
 

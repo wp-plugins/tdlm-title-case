@@ -25,7 +25,7 @@ defined( 'ABSPATH' ) or die( 'Plugin file cannot be accessed directly.' );
  *
  * @return string
  */
-function tdlm_get_sample_permalink_html( $return, $id, $new_title, $new_slug ) {
+function tdlm_get_sample_permalink_html( $return = '', $id = '', $new_title = '', $new_slug = '' ) {
 
 	$translate = '__';
 
