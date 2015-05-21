@@ -1,7 +1,7 @@
 <?php
 /**
  * @package Tdlm_TitleCase
- * @version 1.0.0
+ * @version 1.0.1
  */
 
 /*
@@ -9,7 +9,7 @@ Plugin Name: TDLM Title Case
 Plugin URI: http://scodub.com
 Description: Change your post title to correct title case or all lowercase or all uppercase.
 Author: TDLM
-Version: 1.0.0
+Version: 1.0.1
 Author URI: http://scodub.com
 */
 
